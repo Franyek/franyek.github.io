@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://franyek.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
+		<name>Franciska Sára, Franyi</name>
 		<email>hankquinlanhub@gmail.com</email>
 	</author>
 
