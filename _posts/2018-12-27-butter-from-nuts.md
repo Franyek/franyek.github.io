@@ -14,4 +14,7 @@ This is not my first try. I made my first mandel butter 2 years ago, in 2016. Th
  
  
 **ATTENTION**
+
 Reduce the water of the nuts as much as you can and dont add any kind of liquids, otherwise it will go wrong in less than a week.
+
+![Butter from over roasted mandel](images/2018-12-27-butter-from-buts-01.jpg)
