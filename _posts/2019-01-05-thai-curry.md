@@ -6,7 +6,7 @@ date: 2019-01-05
 
 When I lived in Germany there were months when we ate thai curry at least once in a week. Then I fall in love with that food. Now I am back in Hungary and I haven't found a good thai place yet, but I am missing it, so today I tried to reproduce it.
 
-I used this video for inspiration: https://www.youtube.com/watch?v=LIbKVpBQKJI&t=22s
+I used this video for inspiration: <https://www.youtube.com/watch?v=LIbKVpBQKJI&t=22s>
 
 I didn't follow exactly the recipe because I didnt have every ingredients, but I think I got really close to the taste that I am missing.
 
