@@ -33,6 +33,8 @@ Steps of the recipe:
 
 Conclusion:
   *  Before the last seasoning it was a bit spicy for me and I needed to use a bit sugar: less paste or without any paste, get thai spices and make your own spice mixture
-  *  Too much meat: half chicken breast would be enough and MORE veggie, in winter eg. squash, parsnips, celeriac. Use them even if you dont like them because taste of the sauce is stronger then the veggies's.  
+  *  Too much meat: half chicken breast would be enough and MORE veggie, in winter eg. squash, parsnips, celeriac. Use them even if you dont like them because taste of the sauce is stronger then the veggies's.
+  
+![Thai yellow curry](http://franyek.github.io/images/2019-01-26-thai-curry-01.jpg)  
      
       
