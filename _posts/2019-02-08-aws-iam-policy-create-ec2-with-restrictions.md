@@ -4,10 +4,12 @@ title: "AWS IAM Policy: EC2 instance creation with restrictions "
 date: 2019-02-08
 ---
 
-IAM Policy tags and variables: https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html
-Example policies: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ExamplePolicies_EC2.html
-Restrict resource tags in IAM policy: https://aws.amazon.com/premiumsupport/knowledge-center/iam-policy-tags-restrict/ 
-How to deploy an EC2 from CLI: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-tutorial.html?shortFooter=true#tutorial-configure-security
+Used resources:
+   *  [IAM Policy tags and variables](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html)
+   *  [Example policies](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ExamplePolicies_EC2.html)
+   *  [Restrict resource tags in IAM policy](https://aws.amazon.com/premiumsupport/knowledge-center/iam-policy-tags-restrict)
+   *  [How to deploy an EC2 from CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-tutorial.html?shortFooter=true#tutorial-configure-security)
+
 Example CLI commands for testing the instance deployment:
 ```
 aws ec2 run-instances --security-group-ids <group-id> --count 1 --instance-type t2.micro --key-name devenv-key --query "Instances[0].InstanceId" --image-id <image-id>
@@ -22,6 +24,7 @@ How to decompose the error messages from CLI:
 aws sts decode-authorization-message --encoded-message <msg>
 ```
 
+Half ready policy:
 ```json
 {
     "Version": "2012-10-17",
